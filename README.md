@@ -175,11 +175,24 @@ https://gssoc.girlscript.org/profile/12b372e9-6e3f-4b81-8e31-69ecece94e20
 
 # 📈 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=sam-dwdkr404&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![](https://streak-stats.demolab.com?user=sam-dwdkr404&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam-dwdkr404&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-dwdkr404&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-dwdkr404&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sam-dwdkr404&theme=tokyonight">
+
+</p>
+
 
 ---
 

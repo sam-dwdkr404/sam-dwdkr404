@@ -1,6 +1,17 @@
 <div align="center">
 
 # 👋 Hi, I'm Samanvita Dharwadkar
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&width=900&lines=AI+Software+Engineer;Open+Source+Contributor;Building+AI+Products;FastAPI+%7C+React+%7C+LLMs;Learning+Every+Single+Day">
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sam-dwdkr404&style=for-the-badge">
+
+</p>
 
 ### AI Software Engineer • Open Source Contributor • AIML Student
 
@@ -29,6 +40,10 @@ Building practical AI products that solve real-world problems through Artificial
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<img src="https://img.shields.io/badge/Google-Gemini%20Student%20Ambassador-blue?style=for-the-badge&logo=google">
+
+<img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-ff69b4?style=for-the-badge">
+
 </p>
 
 </div>
@@ -42,6 +57,7 @@ Building practical AI products that solve real-world problems through Artificial
 📍 Karnataka, India
 
 🌱 Currently focused on becoming an AI Software Engineer.
+
 
 I enjoy building AI-powered applications that solve practical problems in healthcare, education and productivity while continuously improving my Data Structures & Algorithms, Open Source and Backend Engineering skills.
 
@@ -193,6 +209,16 @@ https://gssoc.girlscript.org/profile/12b372e9-6e3f-4b81-8e31-69ecece94e20
 
 </p>
 
+
+---
+
+# 🧠 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/samanvita_rd?theme=dark&font=Karma">
+
+</p>
 
 ---
 

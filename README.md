@@ -1,17 +1,17 @@
 <div align="center">
+<p align="left">
 
-# 👋 Hi, I'm Samanvita Dharwadkar
+<img src="https://komarev.com/ghpvc/?username=sam-dwdkr404&style=for-the-badge">
+
+</p>
+
+# 🎧 Hi, I'm Samanvita Dharwadkar ☕
 <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&width=900&lines=AI+Software+Engineer;Open+Source+Contributor;Building+AI+Products;FastAPI+%7C+React+%7C+LLMs;Learning+Every+Single+Day">
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sam-dwdkr404&style=for-the-badge">
-
-</p>
 
 ### AI Software Engineer • Open Source Contributor • AIML Student
 

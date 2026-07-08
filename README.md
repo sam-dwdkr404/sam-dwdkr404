@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Samanvita Dharwadkar
 
-<!--
-**sam-dwdkr404/sam-dwdkr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Software Engineer | Open Source Contributor | AIML Student
 
-Here are some ideas to get you started:
+📍 Dharwad, India
+🎓 B.E. AIML @ VTU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm an AI Engineering student passionate about building AI applications that solve real-world problems.
+
+🎯 Currently focused on:
+- DSA & Competitive Programming
+- Open Source (GSSoC)
+- AI + Full Stack Projects
+- FastAPI, React, Python
+
+## 🚀 Featured Projects
+
+- Medora AI
+- VaakSetu
+- SPARSH
+- AI Research Assistant
+
+## 🛠 Tech Stack
+
+Python • Java • React • FastAPI • Git • GitHub • SQL • MongoDB
+
+## 📈 GitHub Stats
+
+(Stats cards)
+
+## 📫 Connect
+
+LinkedIn
+Email
+LeetCode
+Codeforces
